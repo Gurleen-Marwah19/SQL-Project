@@ -1,4 +1,4 @@
-#SQL-Project #1
+# SQL-Project #1
 <br>
 This is the MAVEN MOVIES project that I completed on Maven Analytics. 
 <br>
